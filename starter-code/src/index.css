@@ -3,3 +3,11 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.pic {
+  width: 100px;
+}
+
+.group {
+  margin-left: 250px;
+}
